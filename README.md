@@ -1,5 +1,4 @@
-# entityOS.build
-Resources to build an entityOS based service or on <a href="https://entityos.cloud" target="_blank">entityOS.cloud</a>.
+### Resources to build an entityOS based service or on <a href="https://entityos.cloud" target="_blank">entityOS.cloud</a>.
 
 ### Covering
 - Design
