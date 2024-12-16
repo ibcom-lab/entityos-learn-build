@@ -5,4 +5,4 @@
 - Implementation
 
 ### Resources
-- <a href="https://learn.entityos.cloud" target="_blank">learnentityOS.cloud</a>
+- <a href="https://learn.entityos.cloud" target="_blank">learn.entityOS.cloud</a>
